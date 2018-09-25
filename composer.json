@@ -1,0 +1,22 @@
+{
+    "name": "thonguyen/blockcypher",
+    "description": "blockcypher php client demo",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0",
+        "vlucas/phpdotenv": "^2.5",
+        "blockcypher/php-client": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Tho Nguyen",
+            "email": "thosuperman@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "ThoNguyen": "src/"
+        }
+    }
+}
