@@ -1,0 +1,5 @@
+NETWORK="main"
+MODE="sandbox"
+VERSION="v1"
+COIN="btc"
+TOKEN="blockcypher-token"
